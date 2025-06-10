@@ -75,5 +75,32 @@ Ser referente nacional e internacional en I+D+i naval, impulsando soluciones tec
    ```bash
    git clone https://github.com/Centro-de-Desarrollo-Tecnologico-Naval/landing-page.git
    cd landing-page
+   ```
+---
+
+## 🤝 Contribución
+1. ¡Nos encanta tu interés en colaborar!
+2. Abre un issue describiendo tu idea o error.
+3. Haz un fork y crea una rama descriptiva:
+ ```bash
+git checkout -b feat/nueva-funcionalidad
+```
+4. Realiza tus cambios y envía un pull request, siguiendo nuestras plantillas.
+5. Nuestro equipo revisará y comentará tu propuesta.
+
+---
+
+## 📄 Licencia
+Este proyecto está bajo la Licencia MIT.
+Consulta el archivo LICENSE para más detalles.
+
+---
+
+## 📬 Contacto
+Si tienes dudas o sugerencias, escríbenos a:
+correo@cednav.armada.mil.co
+
+
+
 
 
