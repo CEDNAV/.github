@@ -1,6 +1,6 @@
 # Centro de Desarrollo Tecnológico Naval (CEDNAV)
 
-> Unidad estratégica de la Armada Nacional de Colombia orientada a la independencia y autonomía tecnológica, a través de procesos de Investigación, Desarrollo e Innovación (I+D+i).
+> Unidad estratégica de la Armada Nacional de Colombia orientada a la independencia y autonomía tecnológica, a través de procesos de Investigación, Desarrollo e Innovación (I+D+i), bajo sus cuatros lineas de Investigación: Programa Sistemas de Armas, Programas de Mando y Control, Programa de Simulación y Programa de Plataformas.
 
 ---
 
@@ -21,32 +21,50 @@
 
 ## 📖 Descripción
 
-El **Centro de Desarrollo Tecnológico Naval** (CEDNAV) es una unidad estratégica de la Armada Nacional de Colombia dedicada a la independencia y autonomía tecnológica. A través de procesos de **Investigación, Desarrollo e Innovación (I+D+i)**, fortalece las capacidades operacionales de la institución y promueve mejoras competitivas en el sector productivo con enfoque naval y militar.
+El **Centro de Desarrollo Tecnológico Naval (CEDNAV)** es una entidad clave dentro de la Armada Nacional de Colombia, dedicada a la investigación, desarrollo e innovación en tecnologías navales. Su propósito es fortalecer las capacidades operativas y estratégicas de la Armada mediante avances tecnológicos que optimicen la seguridad marítima y fluvial.
+
+CEDNAV estructura su trabajo en cuatro pilares fundamentales:
+
+Investigación: Se enfoca en el estudio de tecnologías emergentes, como sistemas de propulsión, materiales avanzados y tecnologías de detección y comunicación.
+
+Desarrollo: A partir de la investigación, impulsa la creación de prototipos y soluciones tecnológicas aplicables a unidades navales.
+
+Innovación: Fomenta la creatividad y experimentación para generar soluciones novedosas que respondan a los desafíos actuales y futuros.
+
+Colaboración: Trabaja en alianza con universidades, centros de investigación y la industria privada para potenciar el conocimiento y la transferencia tecnológica.
 
 ---
 
 ## 🎯 Misión
 
-Apoyar la soberanía y el dominio marítimo mediante la generación, adaptación y transferencia de tecnología aplicada, consolidando la excelencia operativa de la Armada Nacional.
+Desarrollar e implementar tecnologías avanzadas para el fortalecimiento de las capacidades marítimas, fluviales y aereas de las Fuerzas Militares, promoviendo la seguridad, autonomía operativa y modernización de los sistemas de defensa mediante la investigación, innovación y cooperación estratégica con entidades académicas y del sector publico y privado, con e fin de mejorar las tecnológias existentes.
 
 ---
 
 ## 🌟 Visión
 
-Ser referente nacional e internacional en I+D+i naval, impulsando soluciones tecnológicas que garanticen la seguridad, eficiencia y modernización de la fuerza naval colombiana.
+Para el año 2042, el CEDNAV será reconocido como el principal centro de excelencia en desarrollo tecnológico naval, impulsando soluciones disruptivas en inteligencia artificial, sistemas autónomos y vigilancia marítima, consolidando la soberanía tecnológica y la eficiencia operativa de la Armada Nacional.
 
 ---
 
 ## 🥅 Objetivos
 
-1. **Innovación tecnológica**  
-   — Desarrollar prototipos y soluciones de vanguardia en sistemas de mando, control y comunicaciones.  
-2. **Investigación aplicada**  
-   — Generar conocimiento científico y técnico transferible al sector naval y defensa.  
-3. **Transferencia de tecnología**  
-   — Facilitar procesos de adopción y capacitación en nuevas herramientas dentro de la Armada y aliados estratégicos.  
-4. **Colaboración interinstitucional**  
-   — Fomentar alianzas con academia, industria y otras fuerzas armadas para proyectos conjuntos.
+Objetivos estratégicos
+
+1. **Corto plazo (2025-2027)**
+- Optimizar los procesos de investigación y desarrollo en sistemas de navegación y vigilancia.
+- Integrar herramientas de inteligencia artificial en operaciones marítimas.
+- Fortalecer alianzas con universidades y centros de investigación nacionales e internacionales.
+
+2. **Mediano plazo (2028-2035)**
+- Desplegar sistemas autónomos de vigilancia con tecnología avanzada en sensores y análisis de datos.
+- Mejorar la eficiencia energética de las unidades navales mediante innovación en propulsión.
+- Implementar un modelo de actualización tecnológica continua para las capacidades de la Armada.
+
+3. **Largo plazo (2036-2042)**
+- Convertirse en referente internacional en desarrollo de tecnologías marítimas y fluviales.
+- Desarrollar capacidades de manufactura y producción autónoma de sistemas navales de alta tecnología con ayuda de empresas Nacionales e Internacionales.
+- Garantizar la sostenibilidad operativa mediante el uso de energías renovables y soluciones ecoeficientes.
 
 ---
 
@@ -62,10 +80,10 @@ Ser referente nacional e internacional en I+D+i naval, impulsando soluciones tec
 
 ## 🛠️ Tecnologías y Herramientas
 
-- **Lenguajes**: Python, C/C++, MATLAB  
-- **Plataformas**: ROS 2 / DDS, Git/GitHub  
-- **Entornos**: Linux (Ubuntu), Windows  
-- **Herramientas de I+D+i**: Simuladores navales, bancos de pruebas de sensores, entornos de CI/CD  
+- **Lenguajes**: Python, C/C++, JAVA, Verilog,  Ladder, Rust
+- **Plataformas**: ROS 2 / DDS, Git/GitHub, TensorFlow, PyTorch, OpenCV, Matlab, Labview.  
+- **Entornos**: Linux (Ubuntu, Red hat), Windows  
+- **Herramientas de I+D+i**: Simuladores navales, bancos de pruebas de sensores, entornos de CI/CD, sistemas de modelado y simulación en tiempo real
 
 ---
 
