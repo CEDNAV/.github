@@ -116,4 +116,4 @@ Consulta el archivo LICENSE para más detalles.
 
 ## 📬 Contacto
 Si tienes dudas o sugerencias, escríbenos a:
-correo@cednav.armada.mil.co
+cristian.jimenez@armada.mil.co
